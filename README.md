@@ -1,2 +1,2 @@
 # Icons
-Just a place to store icons online for some theaming I do. The icons belong to Proton.me
+Just a place to store icons online for some theaming I do. The icons belong to Proton.me and github.com
